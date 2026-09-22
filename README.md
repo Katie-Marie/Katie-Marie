@@ -4,7 +4,7 @@ Hi! I'm Katie-Marie Enlow, a native Android developer in New Zealand, working on
 
 That splits into two halves. One is ordinary Android: Kotlin, Room, coroutines, and the long migration of a View Binding codebase to Jetpack Compose. The other is the wired-up half, where the tablet is plugged into rate controllers, GPS receivers and load cells over USB serial/CAN bus.
 
-I write notes on both in [android-notes](https://github.com/Katie-Marie/android-notes). They started as notes to myself and are public in case they're useful to someone else.
+My site is at [katie-marie.github.io](https://katie-marie.github.io). I write notes on both in [android-notes](https://github.com/Katie-Marie/android-notes). They started as notes to myself and are public in case they're useful to someone else.
 
 ### Things I work with
 
